@@ -12,4 +12,4 @@ Currently, two official plugins are available:
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
 
-https://github.com/AanchalVerma2001/ai-img-boost/blob/062635c4c824543a0e9fc03a61e6656e4a42719a/Ai%20image%20boost1.png
+![image alt](https://github.com/AanchalVerma2001/ai-img-boost/blob/062635c4c824543a0e9fc03a61e6656e4a42719a/Ai%20image%20boost1.png)
