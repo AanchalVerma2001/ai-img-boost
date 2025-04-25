@@ -13,3 +13,5 @@ If you are developing a production application, we recommend using TypeScript wi
 
 
 ![image alt](https://github.com/AanchalVerma2001/ai-img-boost/blob/062635c4c824543a0e9fc03a61e6656e4a42719a/Ai%20image%20boost1.png)
+
+![image alt](https://github.com/AanchalVerma2001/ai-img-boost/blob/34d75f00b8462f8edf2787e0d28a0d7d196a0b64/Ai%20image%20boost2.png)
