@@ -1,15 +1,23 @@
-# React + Vite
+AI Image Enhancer - React + Vite
+This is a web-based AI Image Enhancer built with React and Vite. The application leverages cutting-edge AI to improve the quality of images, making them sharper, more detailed, and better suited for various purposes. With a sleek, minimal UI, the tool makes it easy to enhance images for personal or professional use.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
+Real-Time Image Enhancement: Automatically improves image quality with just a click.
 
-Currently, two official plugins are available:
+Responsive Design: Fully responsive UI built with Tailwind CSS, ensuring smooth user experience across devices.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Fast Image Processing: Thanks to the Vite development server and React's component architecture, the application offers quick and seamless image enhancements.
 
-## Expanding the ESLint configuration
+Live Preview: Provides an instant preview of the enhanced image before downloading.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Technologies Used
+React: Front-end framework for building dynamic and interactive user interfaces.
+
+Vite: Next-generation build tool that ensures faster development and build times.
+
+Tailwind CSS: Utility-first CSS framework for a clean and responsive design.
+
+AI APIs: Integration with AI-based APIs for image enhancement.
 
 
 ![image alt](https://github.com/AanchalVerma2001/ai-img-boost/blob/062635c4c824543a0e9fc03a61e6656e4a42719a/Ai%20image%20boost1.png)
