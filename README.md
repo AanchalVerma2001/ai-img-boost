@@ -1,7 +1,7 @@
 
 
 
-# AI Image Enhancer - React + Vite
+# AI Image Boost - React + Vite
 This is a web-based AI Image Enhancer built with React and Vite. The application utilizes advanced AI algorithms to enhance the quality of images, making them sharper, more detailed, and ideal for both personal and professional use. With a sleek and minimal UI, the tool allows users to easily improve their images with just a few clicks.
 
 # Features
